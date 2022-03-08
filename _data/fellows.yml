@@ -1,15 +1,19 @@
-- name: Will
+- name: Collins
   img: logo.jpg
-  location: London, UK
+  location: Kampala, Uganda
+  page-name: description
 
 - name: Amanda
   img: amanda.jpg
   location: New York City, USA
+  page-name: description
 
-- name: Aaron
+- name: Brandon
   img: aaron.jpg
-  location: London, UK
+  location: Mexico
+  page-name: description
 
 - name: Swift
   img: swift.jpg
   location: New York City, USA
+  page-name: description
