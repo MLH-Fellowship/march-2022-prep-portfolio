@@ -1,19 +1,19 @@
 - name: Collins
   img: logo.jpg
   location: Kampala, Uganda
-  page-name: description
+  page-name: collins
 
 - name: Amanda
   img: amanda.jpg
   location: New York City, USA
-  page-name: description
+  page-name: amanda
 
 - name: Brandon
   img: aaron.jpg
   location: Mexico
-  page-name: description
+  page-name: brandon
 
 - name: Swift
   img: swift.jpg
   location: New York City, USA
-  page-name: description
+  page-name: swift
