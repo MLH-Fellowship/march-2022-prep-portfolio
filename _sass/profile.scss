@@ -18,7 +18,13 @@
     display: inline;
     padding: 20px;
   }
-
+  
+  @media only screen and (max-width: 400px) {
+    img {
+      width: 150px;
+      height: 150px;
+    }
+  }
   .profile-picture {
     margin-bottom: 30px;
     height: fit-content;
