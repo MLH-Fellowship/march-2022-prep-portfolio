@@ -7,7 +7,7 @@ h2 {
 }
 
 body {
-    background-color: #f5f5f9 !important;
+    background-color: #f5f5f9;
     background-size: cover;
     width: auto!important; 
     overflow-x: hidden!important;
@@ -133,3 +133,8 @@ hr {
         font-size: 0.8rem !important;
     }
 }
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
