@@ -1,15 +1,83 @@
-- name: Will
-  img: logo.jpg
-  location: London, UK
+- name: Marc
+  img: marc.jpg
+  location: USA
 
-- name: Amanda
+- name: Aishwarya
+  img: aishwarya.jpg
+  location: India
+
+- name: Ananya
+  img: ananya.jpg
+  location: India
+
+- name: Brandon
+  img: brandon.jpg
+  location: Mexico
+
+- name: Collins
+  img: collins.jpg
+  location: Uganda
+
+- name: Kanchi
+  img: kanchi.jpg
+  location: India
+
+- name: Neha
+  img: neha.jpg
+  location: India
+
+- name: Nikita
   img: amanda.jpg
-  location: New York City, USA
+  location: India
 
-- name: Aaron
-  img: aaron.jpg
-  location: London, UK
+- name: Ryan
+  img: ryan.jpg
+  location: USA
 
-- name: Swift
+- name: Sai Sambhab
+  img: sai-sambhab.jpg
+  location: India
+
+- name: Sean
+  img: sean.jpg
+  location: USA
+
+- name: Shivam
+  img: shivam.jpg
+  location: India
+
+- name: Siddharth
+  img: siddharth.jpg
+  location: India
+
+- name: Soham
   img: swift.jpg
-  location: New York City, USA
+  location: India
+
+- name: Annica
+  img: annica.jpg
+  location: USA
+
+- name: Minh
+  img: minh.jpg
+  location: Japan
+
+- name: Yashika
+  img: yashika.jpg
+  location: India
+
+- name: Abhishek
+  img: swift.jpg
+  location: India
+
+- name: Ahmed
+  img: swift.jpg
+  location: Egypt
+
+- name: Cyril Chukwuebuka
+  img: cyril.jpg
+  location: Nigeria
+
+- name: Rukmini
+  img: amanda.jpg
+  location: India
