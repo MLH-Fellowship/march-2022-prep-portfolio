@@ -26,6 +26,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fellowsInfo = ${{ steps.yaml2json.outputs.data }};
+            console.log(context);
             const contributor = fellowsInfo.filter((fellow) => {
               return fellow.github.split('/').pop() === context.payload.sender.login;
             })[0];
