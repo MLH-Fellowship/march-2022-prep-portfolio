@@ -2,10 +2,10 @@ name: Contribution Count
 
 on:
   push:
-  issues:
-    types:
-      - opened
-  workflow_dispatch:
+  # issues:
+  #   types:
+  #     - opened
+  # workflow_dispatch:
 
 jobs:
   converter:
@@ -27,6 +27,7 @@ jobs:
           script: |
             const fellowsInfo = ${{ steps.yaml2json.outputs.data }};
             const contributor = fellowsInfo.filter((fellow) => {
+              echo "::debug:: ${{fellow}}";
               return fellow.github.split('/').pop() === context.payload.sender.login;
             })[0];
             if(contributor){
