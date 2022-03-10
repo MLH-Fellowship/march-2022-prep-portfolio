@@ -1,83 +1,83 @@
-- name: Marc
+- name: Marc Jaramillo
   img: marc.jpg
   location: USA
 
-- name: Aishwarya
+- name: Aishwarya Deb
   img: aishwarya.jpg
   location: India
 
-- name: Ananya
+- name: Ananya Joshi
   img: ananya.jpg
   location: India
 
-- name: Brandon
+- name: Brandon Magana
   img: brandon.jpg
   location: Mexico
 
-- name: Collins
+- name: Collins Lubwama
   img: collins.jpg
   location: Uganda
 
-- name: Kanchi
+- name: Kanchi Jain
   img: kanchi.jpg
   location: India
 
-- name: Neha
+- name: Neha Goyal
   img: neha.jpg
   location: India
 
-- name: Nikita
-  img: amanda.jpg
+- name: Nikita Gupta
+  img: nikita.jpg
   location: India
 
-- name: Ryan
+- name: Ryan Gregory
   img: ryan.jpg
   location: USA
 
-- name: Sai Sambhab
+- name: Sai Sambhab Chaini
   img: sai-sambhab.jpg
   location: India
 
-- name: Sean
+- name: Sean Cox
   img: sean.jpg
   location: USA
 
-- name: Shivam
+- name: Shivam Singh
   img: shivam.jpg
   location: India
 
-- name: Siddharth
+- name: Siddharth Nair
   img: siddharth.jpg
   location: India
 
-- name: Soham
-  img: swift.jpg
+- name: Soham Shah
+  img: soham.jpg
   location: India
 
-- name: Annica
+- name: Annica Chiu
   img: annica.jpg
   location: USA
 
-- name: Minh
+- name: Minh Lai
   img: minh.jpg
   location: Japan
 
-- name: Yashika
+- name: Yashika Jotwani
   img: yashika.jpg
   location: India
 
-- name: Abhishek
-  img: swift.jpg
+- name: Abhishek Singh Chauhan
+  img: abhishek.jpg
   location: India
 
-- name: Ahmed
+- name: Ahmed Essam
   img: swift.jpg
   location: Egypt
 
-- name: Cyril Chukwuebuka
+- name: Chukwuebuka Muofunanya
   img: cyril.jpg
   location: Nigeria
 
-- name: Rukmini
-  img: amanda.jpg
+- name: Rukmini Meda
+  img: rukmini.jpg
   location: India
