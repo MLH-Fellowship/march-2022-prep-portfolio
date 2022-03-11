@@ -26,9 +26,13 @@
         margin-bottom: 30px;
 
         img {
-            width: 200px;
-            height: 200px;
+            width: 175px;
+            height: 175px;
             padding: 14px;
+            @media only screen and (max-device-width: 480px) {
+                width: 120px;
+                height: 120px;
+            }
         }
     }
 }
