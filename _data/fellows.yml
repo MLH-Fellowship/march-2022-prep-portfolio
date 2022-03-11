@@ -1,15 +1,83 @@
-- name: Will
-  img: logo.jpg
-  location: London, UK
+- name: Marc Jaramillo
+  img: marc.jpg
+  location: USA
 
-- name: Amanda
-  img: amanda.jpg
-  location: New York City, USA
+- name: Aishwarya Deb
+  img: aishwarya.jpg
+  location: India
 
-- name: Aaron
-  img: aaron.jpg
-  location: London, UK
+- name: Ananya Joshi
+  img: ananya.jpg
+  location: India
 
-- name: Swift
+- name: Brandon Magana
+  img: brandon.jpg
+  location: Mexico
+
+- name: Collins Lubwama
+  img: collins.jpg
+  location: Uganda
+
+- name: Kanchi Jain
+  img: kanchi.jpg
+  location: India
+
+- name: Neha Goyal
+  img: neha.jpg
+  location: India
+
+- name: Nikita Gupta
+  img: nikita.jpg
+  location: India
+
+- name: Ryan Gregory
+  img: ryan.jpg
+  location: USA
+
+- name: Sai Sambhab Chaini
+  img: sai-sambhab.jpg
+  location: India
+
+- name: Sean Cox
+  img: sean.jpg
+  location: USA
+
+- name: Shivam Singh
+  img: shivam.jpg
+  location: India
+
+- name: Siddharth Nair
+  img: siddharth.jpg
+  location: India
+
+- name: Soham Shah
+  img: soham.jpg
+  location: India
+
+- name: Annica Chiu
+  img: annica.jpg
+  location: USA
+
+- name: Minh Lai
+  img: minh.jpg
+  location: Japan
+
+- name: Yashika Jotwani
+  img: yashika.jpg
+  location: India
+
+- name: Abhishek Singh Chauhan
+  img: abhishek.jpg
+  location: India
+
+- name: Ahmed Essam
   img: swift.jpg
-  location: New York City, USA
+  location: Egypt
+
+- name: Chukwuebuka Muofunanya
+  img: cyril.jpg
+  location: Nigeria
+
+- name: Rukmini Meda
+  img: rukmini.jpg
+  location: India
