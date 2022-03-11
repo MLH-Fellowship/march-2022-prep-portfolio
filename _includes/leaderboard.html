@@ -1,13 +1,12 @@
 <h2>Leaderboard</h2>
 <div class="leaderboard-container">
     {% assign sorted = site.data.fellows | sort: "contributions" | reverse %}
-    <!-- DEBUG : {{ sorted | inspect }} -->
 
     <div class="leaderboard-card">
     <table>
         <tr>
-        <th>Fellow</th>
-        <th>Contributions</th>
+            <th>Fellow</th>
+            <th>Contributions</th>
         </tr>
         
     {% for item in sorted %}
@@ -15,27 +14,8 @@
         <td>{{ item.name }}</td>
         <td>{{item.contributions}}</td>
     </tr>
-      <!-- <div class="card">
-        <div class="info">
-          <p class="title">{{ item.name }}</p>
-          <p class="location">{{ item.contributions }}</p>
-          <p class="dates">{{ item.githubUsername }}</p>
-        </div>
-      </div> -->
     
     {% endfor %}
-</table>
+    </table>
+    </div>
 </div>
-  </div>
-
-  <script>
-      window.onload = function() {
-  getStats();
-};
-
-function getStats(){
-    console.log("getting stats");
-    const value = site.data.projects;
-    console.log(value);
-}
-  </script>
