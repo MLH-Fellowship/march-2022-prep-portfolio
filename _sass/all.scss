@@ -35,11 +35,10 @@
 }
 
 body {
-
-    background-color: #f5f5f9;
-    margin-bottom: 0px;
-
+  background-color: #f5f5f9;
+  margin-bottom: 0px;
 }
+
 h2 {
   margin-bottom: 20px;
   margin-top: 20px;
@@ -120,5 +119,31 @@ a {
   .project-img {
     width: 200px;
     height: 200px;
+  }
+}
+
+.project-row {
+  display: flex;
+  justify-content: space-between;
+
+  .backbutton {
+    color: blue;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: white;
+    height: 40px;
+    width: 150px;
+    border-radius: 1rem;
+    text-align: center;
+
+    a {
+      text-decoration: none;
+    }
+
+    img {
+      height: 20px;
+      width: 20px;
+      margin-right: 5px;
+    }
   }
 }
