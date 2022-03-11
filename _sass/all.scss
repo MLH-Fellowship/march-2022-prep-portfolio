@@ -4,6 +4,40 @@
 @import 'profile';
 @import 'page';
 
+.leaderboard-container {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.leaderboard-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 30px;
+  background-color: white;
+  border-radius: .375rem;
+  padding: 2em;
+  font-size: 1.2em;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
 .card-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
