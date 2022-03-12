@@ -1,83 +1,167 @@
 - name: Marc Jaramillo
   img: marc.jpg
   location: USA
+  twitter: 
+  linkedin: https://www.linkedin.com/in/marc-jaramillo/
+  github: https://github.com/marcnjaramillo 
+  resume: 
 
 - name: Aishwarya Deb
   img: aishwarya.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/aishwarya-deb/
+  github: https://github.com/Chibi-girl
+  resume: 
 
 - name: Ananya Joshi
   img: ananya.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/ananya-a-joshi/
+  github: https://github.com/AJgthb2002
+  resume: 
 
 - name: Brandon Magana
   img: brandon.jpg
   location: Mexico
+  twitter: 
+  linkedin: https://www.linkedin.com/in/brandon-magana
+  github: https://github.com/BrandonMagana
+  resume: 
 
 - name: Collins Lubwama
   img: collins.jpg
   location: Uganda
+  twitter: 
+  linkedin: https://www.linkedin.com/in/collins-lubwama-05112b206/
+  github: https://github.com/greatsage-raphael
+  resume: 
 
 - name: Kanchi Jain
   img: kanchi.jpg
   location: India
+  twitter: https://twitter.com/unblncdparnthsi
+  linkedin: https://www.linkedin.com/in/kanchi-jain-6475881b5
+  github: https://github.com/kanchi2438
+  resume: https://www.polywork.com/dynamickj
 
 - name: Neha Goyal
   img: neha.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/neha-goyal-9871881b2
+  github: https://github.com/nehagoyal2607
+  resume: 
 
 - name: Nikita Gupta
   img: nikita.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/nikita-gupta4/
+  github: https://github.com/gnikita432
+  resume: 
 
 - name: Ryan Gregory
   img: ryan.jpg
   location: USA
+  twitter: 
+  linkedin: 
+  github: https://github.com/RWGregory
+  resume: 
 
 - name: Sai Sambhab Chaini
   img: sai-sambhab.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/sai-sambhab-chaini/
+  github: https://github.com/a-sambhab
+  resume: 
 
 - name: Sean Cox
   img: sean.jpg
   location: USA
+  twitter: 
+  linkedin: https://www.linkedin.com/in/sccox/
+  github: https://github.com/sccx
+  resume: 
 
 - name: Shivam Singh
   img: shivam.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/shivamsingh12/
+  github: https://github.com/shivamsingh124
+  resume: 
 
 - name: Siddharth Nair
   img: siddharth.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/siddharth-nair-555961173/
+  github: https://github.com/Siddharth1010
+  resume: 
 
 - name: Soham Shah
   img: soham.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/sohamshah456
+  github: https://github.com/sohamsshah
+  resume: 
 
 - name: Annica Chiu
   img: annica.jpg
   location: USA
+  twitter: 
+  linkedin: https://www.linkedin.com/in/annicachiu/
+  github: https://github.com/chiuannica
+  resume: 
 
 - name: Minh Lai
   img: minh.jpg
   location: Japan
+  twitter: 
+  linkedin: https://www.linkedin.com/in/minh-lai-ba7717194
+  github: https://github.com/Minh-ctrl
+  resume: 
 
 - name: Yashika Jotwani
   img: yashika.jpg
   location: India
+  twitter: 
+  linkedin: http://linkedin.com/in/yashika-jothwani-03a0061b7/
+  github: https://github.com/yashikajotwani12
+  resume: 
 
 - name: Abhishek Singh Chauhan
   img: abhishek.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/abhishekchauhan5/
+  github: https://github.com/Abhishek357
+  resume: 
 
 - name: Ahmed Essam
   img: swift.jpg
   location: Egypt
+  twitter: 
+  linkedin: https://www.linkedin.com/in/124x/
+  github: https://github.com/Hanaffi
+  resume: 
 
 - name: Chukwuebuka Muofunanya
   img: cyril.jpg
   location: Nigeria
+  twitter: 
+  linkedin: http://linkedin.com/in/chukwuebuka-cyril-muofunanya
+  github: https://github.com/cyrilchukwuebuka
+  resume: 
 
 - name: Rukmini Meda
   img: rukmini.jpg
   location: India
+  twitter: 
+  linkedin: https://www.linkedin.com/in/rukmini-meda-28042916a/
+  github: https://github.com/Rukmini-Meda
+  resume: 

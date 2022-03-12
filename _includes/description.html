@@ -7,35 +7,46 @@
       <p class="location">{{ item.location }}</p>
     </div>
     <div class="socials">
+      {% if item.linkedin %}
       <div class="icon linkedin-icon">
-        <a href="">
+        <a href="{{item.linkedin}}">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"
             alt="linkedin icon"
           />
         </a>
       </div>
+      {% endif %}
+
+      {% if item.twitter %}
       <div class="icon twitter-icon">
-        <a href="">
+        <a href="{{item.twitter}}">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
             alt="twitter icon"
           />
         </a>
       </div>
+      {% endif %}
+
+      {% if item.resume %}
       <div class="icon resume-icon">
-        <a href="">
+        <a href="{{item.resume}}">
           <img src="./assets/img/resume.png" alt="resume icon" />
         </a>
       </div>
+      {% endif %}
+
+      {% if item.github %}
       <div class="icon github-icon">
-        <a href="">
+        <a href="{{item.github}}">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             alt="github icon"
           />
         </a>
       </div>
+      {% endif %}
     </div>
   </div>
   {% endfor %}
