@@ -22,9 +22,28 @@
 
         <script>
             function myFunction() {
-               var element = document.body;
-               element.classList.toggle("dark-mode");
+               let element = document.body;  
+               let card = document.getElementsByClassName("card")[0];
+               let card1 = document.getElementsByClassName("card")[1];
+               let card2 = document.getElementsByClassName("card")[2];
+               let card3 = document.getElementsByClassName("card")[3];
+               //
+               let info = document.getElementsByClassName("card")[4];
+               let info1 = document.getElementsByClassName("card")[5];
+               let info2 = document.getElementsByClassName("card")[6];
+               
+            //
+               element.classList.toggle("dark-mode");  
+               card.classList.toggle("dark-card");
+               card1.classList.toggle("dark-card");
+               card2.classList.toggle("dark-card");
+               card3.classList.toggle("dark-card");
+
+               info.classList.toggle("dark-card");
+               info1.classList.toggle("dark-card");
+               info2.classList.toggle("dark-card");
             }
+
             </script>
 
 
