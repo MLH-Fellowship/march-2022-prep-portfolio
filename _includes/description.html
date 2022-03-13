@@ -1,4 +1,5 @@
 <h2>Meet the Pod</h2>
+<<<<<<< HEAD
 <div class="card-container" >
     {% for item in site.data.fellows %}
     {% if item.page-name %}
@@ -11,7 +12,46 @@
             <p class="title"> {{ item.name }}</p>
             <p class="location"> {{ item.location }}</p>
         </div>
+=======
+<div class="card-container">
+  {% for item in site.data.fellows %}
+  <div class="card">
+    <div class="info">
+      <p class="title">{{ item.name }}</p>
+      <p class="location">{{ item.location }}</p>
+>>>>>>> 1331b959d3a99149793c8d86480a1c93b85aac23
     </div>
-    </a>
-    {% endfor %}
+    <div class="socials">
+      <div class="icon linkedin-icon">
+        <a href="">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"
+            alt="linkedin icon"
+          />
+        </a>
+      </div>
+      <div class="icon twitter-icon">
+        <a href="">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
+            alt="twitter icon"
+          />
+        </a>
+      </div>
+      <div class="icon resume-icon">
+        <a href="">
+          <img src="./assets/img/resume.png" alt="resume icon" />
+        </a>
+      </div>
+      <div class="icon github-icon">
+        <a href="">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            alt="github icon"
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
 </div>
