@@ -20,7 +20,7 @@
 .nav-logo {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .nav-logo img {
@@ -33,4 +33,10 @@
     text-align: right;
     padding-top: 0px;
     padding-right: 0px;
+}
+
+.btn btn-dark{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
 }
