@@ -158,3 +158,35 @@ a {
     }
   }
 }
+
+.toggle_button {
+  cursor: pointer;
+background: white;
+border: none;
+padding: 5px 20px;
+border-radius: 3px;
+font-weight: bold;
+outline: none;
+}
+.dark {
+  background: black !important;
+  .toggle_button {
+    background: black;
+    color: white;
+  }
+  .profile h1 {
+    color: black;
+  }
+  h2 {
+    background: black;
+    color: white;
+  }
+  .card-container {
+    background: black;
+    color: white;
+  }
+  .card {
+    background-color: #8080808a;
+    color: white;
+  }
+}
