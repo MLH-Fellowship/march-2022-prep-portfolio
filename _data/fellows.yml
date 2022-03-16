@@ -1,83 +1,109 @@
+- name: Test
+  img: logo.jpg
+  location: USA
+  page-name: test
+
 - name: Marc Jaramillo
   img: marc.jpg
   location: USA
+  page-name: marc
 
 - name: Aishwarya Deb
   img: aishwarya.jpg
   location: India
+  page-name: aishwarya
 
 - name: Ananya Joshi
   img: ananya.jpg
   location: India
+  page-name: ananya
 
-- name: Brandon Magana
+- name: Brandon Magaña
   img: brandon.jpg
   location: Mexico
+  page-name: brandon
 
 - name: Collins Lubwama
   img: collins.jpg
   location: Uganda
+  page-name: collins
 
 - name: Kanchi Jain
   img: kanchi.jpg
   location: India
+  page-name: kanchi
 
 - name: Neha Goyal
   img: neha.jpg
   location: India
+  page-name: neha
 
 - name: Nikita Gupta
   img: nikita.jpg
   location: India
+  page-name: nikita
 
 - name: Ryan Gregory
   img: ryan.jpg
   location: USA
+  page-name: ryan
 
 - name: Sai Sambhab Chaini
   img: sai-sambhab.jpg
   location: India
+  page-name: sai
 
 - name: Sean Cox
   img: sean.jpg
   location: USA
+  page-name: sean
 
 - name: Shivam Singh
   img: shivam.jpg
   location: India
+  page-name: shivam
 
 - name: Siddharth Nair
   img: siddharth.jpg
   location: India
+  page-name: siddharth
 
 - name: Soham Shah
   img: soham.jpg
   location: India
+  page-name: soham
 
 - name: Annica Chiu
   img: annica.jpg
   location: USA
+  page-name: annica
 
 - name: Minh Lai
   img: minh.jpg
   location: Japan
+  page-name: minh
 
 - name: Yashika Jotwani
   img: yashika.jpg
   location: India
+  page-name: yashika
 
 - name: Abhishek Singh Chauhan
   img: abhishek.jpg
   location: India
+  page-name: abhishek
 
 - name: Ahmed Essam
   img: swift.jpg
   location: Egypt
-
-- name: Chukwuebuka Muofunanya
-  img: cyril.jpg
-  location: Nigeria
+  page-name: ahmed
 
 - name: Rukmini Meda
   img: rukmini.jpg
   location: India
+  page-name: rukmini
+
+- name: Chukwuebuka Muofunanya
+  img: cyril.jpg
+  location: Nigeria
+  page-name: chukwuebuka
