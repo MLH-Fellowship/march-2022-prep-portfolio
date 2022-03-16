@@ -1,0 +1,81 @@
+---
+layout : default
+---
+
+<div class="profile-page-banner">
+    <div class="container">
+        <div class="logo">
+            <a href="/">
+                <img src="/assets/img/logo.svg"/>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container fellow-card">
+    <div class="row">
+        <div class="col-md">
+            <div class="fellow-profile">
+                <img src="../assets/img/fellows/{{ page.img }}">       
+                <h2 class="fellow-h2">{{page.fellow-name}}</h2>
+                <h3 class="fellow-h3">{{page.city}}</h3>
+            </div>
+        </div>
+        <div class="col-md">
+            <div class="about-fellow">
+                <h2 class="about-h2">About me</h2>
+                <p class="about-me-paragraph">
+                    <b>University:</b> {{page.university}}
+                </p>
+                <p class="about-me-paragraph">
+                    <b>Favorite programming languages:</b> {{page.fav_programming_languages}}
+                </p>
+                
+                <p class="about-me-paragraph">
+                    <b>Hobbies:</b> {{page.hobbies}}
+                </p>
+                
+                <div class="social-medial-links">
+                    
+                    <!-- Facebook -->
+                    {% if page.facebook %}
+                        <a href="https://www.facebook.com/{{page.facebook}}">
+                            <i class="fab fa-facebook-f fa-lg"" style="color: #3b5998;"></i>
+                        </a>
+                    {% endif %}
+                
+                    <!-- Twitter -->
+                    {% if page.twitter %}
+                        <a href="https://twitter.com/{{page.twitter}}">
+                            <i class="fab fa-twitter  fa-lg"" style="color: #55acee;"></i>
+                        </a>
+                    {% endif %}
+
+                    <!-- Instagram -->
+                    {% if page.instagram %}
+                        <a href="https://www.instagram.com/{{page.instagram}}">
+                            <i class="fab fa-instagram fa-lg""  style="color: #ac2bac;"></i>
+                        </a>
+                    {% endif %}        
+
+                    <!-- Linkedin -->
+                    {% if page.linkedin %}
+                        <a href="https://www.linkedin.com/in/{{page.linkedin}}">
+                            <i class="fab fa-linkedin-in  fa-lg""  style="color: #0082ca;"></i>
+                        </a>
+                    {% endif %}
+
+                    <!-- Github -->
+                    {% if page.github %}
+                        <a href="https://github.com/{{page.github}}">
+                            <i class="fab fa-github fa-lg"  style="color: #333333;"></i>
+                        </a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        {{content}}
+    </div>
+</div>

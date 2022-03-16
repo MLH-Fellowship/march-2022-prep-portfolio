@@ -20,7 +20,36 @@
     <script src="https://jsxss.com/assets/xss.js"
         crossorigin="anonymous"></script>
 
+        <script>
+            function myFunction() {
+               let element = document.body;  
+               let card = document.getElementsByClassName("card")[0];
+               let card1 = document.getElementsByClassName("card")[1];
+               let card2 = document.getElementsByClassName("card")[2];
+               let card3 = document.getElementsByClassName("card")[3];
+               //
+               let info = document.getElementsByClassName("card")[4];
+               let info1 = document.getElementsByClassName("card")[5];
+               let info2 = document.getElementsByClassName("card")[6];
+               
+            //
+               element.classList.toggle("dark-mode");  
+               card.classList.toggle("dark-card");
+               card1.classList.toggle("dark-card");
+               card2.classList.toggle("dark-card");
+               card3.classList.toggle("dark-card");
+
+               info.classList.toggle("dark-card");
+               info1.classList.toggle("dark-card");
+               info2.classList.toggle("dark-card");
+            }
+
+            </script>
+
+
     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css"

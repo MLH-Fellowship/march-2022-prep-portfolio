@@ -1,4 +1,4 @@
-title: "Pod 4.1.X"
+title: "Pod 22.P2.1"
 email: fellowship@mlh.io
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio website!
@@ -11,3 +11,4 @@ sass:
   sass_dir: _sass
 
 icon: /assets/img/icon.jpg
+
