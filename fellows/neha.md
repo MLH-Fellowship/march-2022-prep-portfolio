@@ -15,4 +15,4 @@ linkedin : neha-goyal-9871881b2
 
 ## A little bit about me
 
-Hey! I'm Neha, a junior at Delhi Technological University, pursuing my major in Computer Engineering. My preferred pronouns are she/her. I'm currently an MLH fellow. I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript. I am always open to collaborating on projects and innovative ideas.  
+Hey! I'm Neha, a junior at Delhi Technological University, pursuing my major in Computer Engineering. My preferred pronouns are she/her. I'm currently an MLH fellow. I'll be joining Google as a SWE Intern in May 2022. I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript. I am always open to collaborating on projects and innovative ideas.  
